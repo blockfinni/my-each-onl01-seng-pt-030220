@@ -8,7 +8,11 @@ def my_each (array)
     i = i + 1
   end
   
-  array1
+  if array1.include?(false)
+    false
+  else
+    true
+  end
   
   
 end
