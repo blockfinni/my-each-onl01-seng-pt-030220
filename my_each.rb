@@ -8,4 +8,5 @@ def my_each (array)
     i = i + 1
   end
   
+  array1
 end
